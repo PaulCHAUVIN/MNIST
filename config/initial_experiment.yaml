@@ -1,0 +1,4 @@
+max_epochs: 3 # maximum number of training epochs
+lr: 0.000001 # learning rate
+batch_size: 64 # training batch size
+model: SimpleConvNet # model name

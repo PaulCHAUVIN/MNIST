@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/paulchauvin/Documents/GitHub/lunit/mlruns/0/ece4d3e47cda4072a86219bd1696fbb2/artifacts
+end_time: 1698104280911
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: ece4d3e47cda4072a86219bd1696fbb2
+run_uuid: ece4d3e47cda4072a86219bd1696fbb2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698097383659
+status: 3
+tags: []
+user_id: paulchauvin
