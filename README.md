@@ -1,6 +1,6 @@
-# Lunit Project
+# MNIST Project
 
-This project provides utilities for training neural networks on the [MNIST dataset](https://paperswithcode.com/dataset/mnist) , running inferences, and tracking experiments using [MLFlow](https://mlflow.org/docs/latest/tracking.html). We make accessible two different models, on [SimpleConvNet](https://github.com/pytorch/examples/blob/main/mnist/main.py) and one [ViT](https://github.com/UdbhavPrasad072300/Transformer-Implementations/blob/main/notebooks/MNIST%20Classification%20-%20ViT.ipynb?fbclid=IwAR3lRRnCAEa7Yrc45D42wWKOav_PicEDRDuI3EDMA_kLjVMWDne-dT7SbAQ)
+This project provides utilities for training neural networks on the [MNIST dataset](https://paperswithcode.com/dataset/mnist), running inferences, and tracking experiments using [MLFlow](https://mlflow.org/docs/latest/tracking.html). We make accessible two different models, on [SimpleConvNet](https://github.com/pytorch/examples/blob/main/mnist/main.py) and one [ViT](https://github.com/UdbhavPrasad072300/Transformer-Implementations/blob/main/notebooks/MNIST%20Classification%20-%20ViT.ipynb?fbclid=IwAR3lRRnCAEa7Yrc45D42wWKOav_PicEDRDuI3EDMA_kLjVMWDne-dT7SbAQ)
 
 ## Installation
 
